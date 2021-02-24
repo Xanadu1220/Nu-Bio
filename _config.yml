@@ -1,0 +1,141 @@
+#page title
+page_title                                : Bio about a nurse                        
+
+# App Info
+ios_app_id                                :                              # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+
+appstore_link                             : https://www.instagram.com/lin.zhe.yu      # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+playstore_link                            :                                           # Enter Google Play Store URL.
+presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+                                                                                      # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
+
+app_icon                                  : assets/smile.JPG                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_name                                  : Lin Zhe Yu ● 林哲宇 ● Oliver                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : Since 2021.02.22                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : Hello! I am a Nurse from Taiwan. <br><br/>I completed my bachelor degree in Nursing at CGUST.<br><br/>I work at TSGH since 2020.<br><br/>Good at IOS/Jailbreak,Windows/MacOS.
+
+enable_smart_app_banner                   : false                                      # Set to true to show a smart app banner at top of page on mobile devices.
+
+
+
+# Information About Yourself
+your_name                                 : Lin Zhe Yu                                  
+your_link                                 : https://www.instagram.com/lin.zhe.yu                     
+your_city                                 : Taiwan                                
+email_address                             : abc05122012@icloud.com
+facebook_username                         : Prometheus1220                                          
+instagram_username                        : Lin.Zhe.Yu
+twitter_username                          : NurseOliverDICK
+github_username                           : Xanadu1220 
+youtube_username                          :
+
+
+
+# Feature List                            Edit, add or remove features to be presented.
+features                                  :
+
+  - title                                 : Github Website
+    description                           : Github網站架設, 主題變更, 調整.
+    fontawesome_icon_name                 : star
+    
+  - title                                 : Apple Device
+    description                           : IOS, MacOS 進階使用設定, 軟體推薦教學, 提升生產率教學, JailBreak
+    fontawesome_icon_name                 : star
+
+  - title                                 : Wordpress
+    description                           : Wordpress網站架設，從網路空間到後台維護，提供一條龍的Wordpress上手服務.
+    fontawesome_icon_name                 : star
+
+  - title                                 : Windows
+    description                           : 基礎問題排錯, Perfect restore, Advanced optimization, 依預算予以搭配電腦.
+    fontawesome_icon_name                 : star
+
+  - title                                 : HomeKit (Home)
+    description                           : 智慧家具產品概念, Homekit架構教學, 基礎插座插頭美化
+    fontawesome_icon_name                 : star
+  
+  - title                                 : Arduino (ESP32)
+    description                           : 基礎Arduino教學, Arduino簡單腳本教學, Arduino進階學習(刷入程式)
+    fontawesome_icon_name                 : star
+
+  - title                                 : Download
+    description                           : 未來將為更新推出教學檔案 ($)
+    fontawesome_icon_name                 : arrow-alt-circle-down
+
+  - title                                 : 商品網頁
+    description                           : 待補
+    fontawesome_icon_name                 : link
+
+  - title                                 : 技術支援
+    description                           : +886970893722<br><br/>abc05122012@icloud.com<br><br/>LINE:abc05122012
+    fontawesome_icon_name                 : info-circle
+
+  - title                                 : # New Feature Title
+    description                           : # New Feature Description
+    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+
+
+
+# Theme Settings
+topbar_color                              : "#000000"
+topbar_transparency                       : 0.1
+topbar_title_color                        : "#ffffff"
+
+cover_image                               : assets/LOVE1.jpg                  # Replace with alternative image path or image URL.
+cover_overlay_color                       : "#363b3d"
+cover_overlay_transparency                : 0.5
+
+device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
+
+body_background_color                     : "#ffffff"
+
+link_color                                : "#1d63ea"
+
+app_title_color                           : "#ffffff"
+app_price_color                           : "#ffffff"
+app_description_color                     : "#ffffff"
+
+feature_title_color                       : "#000000"
+feature_text_color                        : "#666666"
+
+feature_icons_foreground_color            : "#1d63ea"
+feature_icons_background_color            : "#e6e6e6"
+
+social_icons_foreground_color             : "#666666"
+social_icons_background_color             : "#e6e6e6"
+
+footer_text_color                         : "#666666"
+
+
+
+
+
+
+
+
+
+
+
+
+
+####################################################
+### Jekyll Configuration. No need to touch this. ###
+####################################################
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :compressed # You might prefer to minify using :compressed
+
+# Exclude these files from your production _site
+exclude:
+  - LICENSE
+  - README.md
+  - CNAME
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# Markdown rendering
+markdown: kramdown
