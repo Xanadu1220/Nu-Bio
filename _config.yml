@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/smile.JPG                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Lin Zhe Yu ● 林哲宇 ● Oliver                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Since 2021.02.22                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Hello! I am a Nurse from Taiwan. <br><br/>I completed my bachelor degree in Nursing at CGUST.<br><br/>I work at TSGH since 2020.<br><br>Now work at CMUH ED<br/><br/>Good at IOS/Jailbreak,Windows/MacOS.
+app_description                           : Hello! I am a Nurse from Taiwan. <br><br/>I completed my bachelor degree in Nursing at CGUST.<br><br/>I work at TSGH since 2020 ,Now work at CMUH ED<br/><br/>Good at IOS/Jailbreak,Windows/MacOS.
 
 enable_smart_app_banner                   : false                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
