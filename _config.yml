@@ -39,7 +39,7 @@ features                                  :
     fontawesome_icon_name                 : star
     
   - title                                 : Apple Device
-    description                           : IOS, MacOS 進階使用設定, 軟體推薦教學, 提升生產率教學, JailBreak
+    description                           : IOS, MacOS 進階使用設定, 軟體推薦教學, 提升生產率教學, JailBreak.
     fontawesome_icon_name                 : star
 
   - title                                 : Wordpress
@@ -51,7 +51,7 @@ features                                  :
     fontawesome_icon_name                 : star
 
   - title                                 : HomeKit (Home)
-    description                           : 智慧家具產品概念, Homekit架構教學, 基礎插座插頭美化
+    description                           : 智慧家具產品概念, Homekit架構教學, 基礎插座插頭美化,智慧傢俱擺設構想。
     fontawesome_icon_name                 : star
   
   - title                                 : Arduino (ESP32)
