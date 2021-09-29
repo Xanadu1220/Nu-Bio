@@ -11,6 +11,12 @@ include_in_footer: false
 <br>
 
 ### `Latest`
+# **Version 2.0**
+ - Update background and lower title.
+ - Remove page MacOS useless note.
+ - fix page MacOS old concept "M1 Chip".
+ - 
+
 # **Version 1.0**
 Launch ! 第一版在header透明度以及mobile device內容進行更新 ！隨後會繼續更新內容物。
 
